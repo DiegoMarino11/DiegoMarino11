@@ -1,4 +1,4 @@
-# 👨‍💻 Diego Marino
+# 👨‍💻 Diego Mariño
 
 Desenvolvedor focado na construção de soluções reais utilizando **Python, automações e Inteligência Artificial**.
 
