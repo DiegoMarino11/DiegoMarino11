@@ -1,6 +1,6 @@
 # 👨‍💻 Diego Mariño
 
-Desenvolvedor focado na construção de soluções reais utilizando **Python, automações e Inteligência Artificial**.
+Desenvolvedor especializado na construção de soluções com Python, automações e Inteligência Artificial.
 
 Tenho como objetivo criar softwares que gerem impacto prático, aumentem eficiência operacional e melhorem a experiência das pessoas através da tecnologia.
 
