@@ -24,16 +24,10 @@ Plataforma capaz de transformar áudio em texto sincronizado automaticamente, pr
 
 ---
 
-## 🧠 Stack Principal
+## 🛠️ Tech Stack
 
-**Linguagens e ferramentas que utilizo com frequência:**
+![Python](https://img.shields.io/badge/Python-3.10+-blue)![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)![AI](https://img.shields.io/badge/AI-Applied-purple)![Whisper](https://img.shields.io/badge/OpenAI-Whisper-orange)![FFmpeg](https://img.shields.io/badge/Media-FFmpeg-red)![Docker](https://img.shields.io/badge/Deploy-Docker-blue)![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-316192)![Git](https://img.shields.io/badge/Version%20Control-Git-black)
 
-* Python
-* APIs REST
-* Automação de processos
-* Inteligência Artificial aplicada
-* FFmpeg
-* Git & GitHub
 
 ---
 
