@@ -29,7 +29,11 @@ Plataforma capaz de transformar áudio em texto sincronizado automaticamente, pr
 ![Python](https://img.shields.io/badge/Python-3.10+-blue) ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green) ![AI](https://img.shields.io/badge/AI-Applied-purple) ![Whisper](https://img.shields.io/badge/OpenAI-Whisper-orange) ![FFmpeg](https://img.shields.io/badge/Media-FFmpeg-red) ![Docker](https://img.shields.io/badge/Deploy-Docker-blue) ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-316192) ![Git](https://img.shields.io/badge/Version%20Control-Git-black)
 
 ## 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML-5-orange) ![CSS](https://img.shields.io/badge/CSS-3-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![HTML](https://img.shields.io/badge/HTML-5-orange) ![CSS](https://img.shields.io/badge/CSS-3-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) 
+
+## 🔍 Quality Engineering
+
+![QA](https://img.shields.io/badge/Testing-Quality%20Assurance-blue) ![Pytest](https://img.shields.io/badge/Pytest-Automated%20Tests-green) ![Selenium](https://img.shields.io/badge/Selenium-Automation-brightgreen)
 
 
 ---
