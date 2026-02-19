@@ -26,7 +26,8 @@ Plataforma capaz de transformar áudio em texto sincronizado automaticamente, pr
 
 ## 🧠 Backend & IA
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue) ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green) ![AI](https://img.shields.io/badge/AI-Applied-purple) ![Whisper](https://img.shields.io/badge/OpenAI-Whisper-orange) ![FFmpeg](https://img.shields.io/badge/Media-FFmpeg-red) ![Docker](https://img.shields.io/badge/Deploy-Docker-blue) ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-316192) ![Git](https://img.shields.io/badge/Version%20Control-Git-black)
+![Flask](https://img.shields.io/badge/Flask-black?style=flat) ![REST APIs](https://img.shields.io/badge/REST_APIs-blue?style=flat) ![System Integration](https://img.shields.io/badge/System_Integration-lightgrey?style=flat) ![Process Automation](https://img.shields.io/badge/Process_Automation-brightgreen?style=flat) ![Application Architecture](https://img.shields.io/badge/Application_Architecture-purple?style=flat) ![Logging & Monitoring](https://img.shields.io/badge/Logging_&_Monitoring-orange?style=flat) ![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-teal?style=flat) ![Web Services](https://img.shields.io/badge/Web_Services-grey?style=flat)
+
 
 ## 🌐 Frontend
 ![HTML](https://img.shields.io/badge/HTML-5-orange) ![CSS](https://img.shields.io/badge/CSS-3-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) 
