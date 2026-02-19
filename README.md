@@ -26,7 +26,15 @@ Plataforma capaz de transformar áudio em texto sincronizado automaticamente, pr
 
 ## 🧠 Backend & IA
 
-![Flask](https://img.shields.io/badge/Flask-black?style=flat) ![REST APIs](https://img.shields.io/badge/REST_APIs-blue?style=flat) ![System Integration](https://img.shields.io/badge/System_Integration-lightgrey?style=flat) ![Process Automation](https://img.shields.io/badge/Process_Automation-brightgreen?style=flat) ![Application Architecture](https://img.shields.io/badge/Application_Architecture-purple?style=flat) ![Logging & Monitoring](https://img.shields.io/badge/Logging_&_Monitoring-orange?style=flat) ![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-teal?style=flat) ![Web Services](https://img.shields.io/badge/Web_Services-grey?style=flat)
+### Core Development
+![Flask](https://img.shields.io/badge/Flask-black?style=flat) ![REST APIs](https://img.shields.io/badge/REST_APIs-blue?style=flat) ![Application Architecture](https://img.shields.io/badge/Application_Architecture-purple?style=flat)
+
+### Integration & Data
+![System Integration](https://img.shields.io/badge/System_Integration-lightgrey?style=flat) ![External API Integration](https://img.shields.io/badge/External_API_Integration-grey?style=flat) ![HTTP Requests](https://img.shields.io/badge/HTTP_Requests-lightblue?style=flat) ![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-teal?style=flat) ![Process Automation](https://img.shields.io/badge/Process_Automation-brightgreen?style=flat)
+
+### Production & Configuration
+![Environment Configuration](https://img.shields.io/badge/Environment_Config_(.env)-yellow?style=flat) ![Error Handling](https://img.shields.io/badge/Error_Handling-red?style=flat) ![Logging & Monitoring](https://img.shields.io/badge/Logging_&_Monitoring-orange?style=flat) ![Deployment & Hosting](https://img.shields.io/badge/Deployment_&_Hosting-blueviolet?style=flat) ![Web Services](https://img.shields.io/badge/Web_Services-grey?style=flat)
+
 
 
 ## 🌐 Frontend
