@@ -1,184 +1,129 @@
-# 👋 Olá, eu sou Diego Mariño
+# Diego Mariño Alves
 
-### 💻 Analista de TI | Python | Automação | Infraestrutura
+**Analista de TI que une infraestrutura corporativa e Python para automatizar o que consome tempo da operação.**
 
-Profissional de Tecnologia da Informação com experiência em **suporte, infraestrutura, administração de ambientes Windows e desenvolvimento de soluções para automação de processos**.
+Infraestrutura · Suporte N1–N3 · Automação de processos · Python
 
-Atualmente direciono meus estudos e projetos para **desenvolvimento, automação, dados e segurança da informação**, buscando transformar necessidades do dia a dia em soluções práticas.
-
----
-
-## 🚀 Sobre mim
-
-- 🖥️ Experiência com **suporte técnico e infraestrutura de TI**
-- 🐍 Desenvolvimento de soluções utilizando **Python**
-- ⚙️ Automação de tarefas e processos
-- 🔐 Administração de **Active Directory, GPO e Windows Server**
-- ☁️ Experiência com **Google Workspace**
-- 📊 Interesse em **dados, Power BI e SQL**
-- 🛡️ Estudos em **Cybersecurity**
-- 🧩 Desenvolvimento de ferramentas para resolver problemas reais
-- 📚 Pós-graduação em **Engenharia de Software**
-- 🎓 Formação em **Programação de Jogos Digitais**
-- 🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas**
+[LinkedIn](https://linkedin.com/in/diegomarino91) · [E-mail](mailto:diego.marinolvs@hotmail.com) · [Portfólio](https://bit.ly/44UW7nS) · Rio de Janeiro, RJ
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Sobre mim
 
-### 🐍 Desenvolvimento
+Tenho mais de 8 anos de experiência em infraestrutura e suporte corporativo (N1 a N3). No dia a dia administro Windows Server, Active Directory (GPOs), File Server, Google Workspace, redes, backups e monitoramento com Zabbix.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+Uso Python e scripts administrativos para eliminar tarefas manuais, integrar sistemas via APIs e gerar relatórios automáticos. Também documento ambientes e procedimentos, conduzo treinamentos e apoio projetos de TI.
 
-### ⚙️ Automação
-
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-### 🖥️ Infraestrutura
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
-### ☁️ Cloud e Dados
-
-![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🔧 Versionamento e Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+Pós-graduado em Engenharia de Software, com foco em evoluir em **Infraestrutura, Automação e DevOps**.
 
 ---
 
-# 🚀 Projetos em Destaque
+## Stack
 
-## 💰 Controle Financeiro
+**Infraestrutura e redes**
 
-Aplicação desktop desenvolvida em Python para controle de despesas pessoais.
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC2936?style=flat-square&logo=zabbix&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 
-O sistema permite cadastrar, editar e excluir despesas, controlar gastos fixos, variáveis e parcelados, além de possibilitar a divisão de despesas entre várias pessoas.
+**Desenvolvimento e automação**
 
-### Funcionalidades
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Apps%20Script-4285F4?style=flat-square&logo=google&logoColor=white)
 
-- 💰 Controle de despesas
-- 🔒 Despesas fixas
-- 🔄 Despesas variáveis
-- 📅 Despesas parceladas
-- ✅ Controle de parcelas pagas
-- 👥 Divisão de despesas
-- ✏️ Edição de despesas
-- 🗑️ Exclusão de despesas
-- 📊 Relatórios por categoria
-- 📊 Relatórios por tipo de despesa
-- 🌙 Tema escuro e claro
-- 💾 Salvamento local em JSON
-- 📦 Versão executável para Windows
+**Dados e versionamento**
 
-**Tecnologias:**
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+**Service Desk / ITSM:** GLPI, Zendesk, Movidesk, Remedy, Jira, Bitrix24
+
+---
+
+## Projetos
+
+### Controle Financeiro
+Aplicativo desktop para controle de despesas pessoais: despesas fixas, variáveis e parceladas (com controle de parcelas pagas), divisão de gastos entre pessoas, relatórios por categoria e tipo, tema claro/escuro e dados salvos em JSON. Disponível como executável para Windows.
 
 `Python` `CustomTkinter` `JSON` `PyInstaller`
 
-🔗 **[Repositório no GitHub](https://github.com/DiegoMarino11/controle-financeiro-python)**
+
+[Repositório](https://github.com/DiegoMarino11/controle-financeiro-python)
 
 ---
 
-## 📞 Painel de Ramais
+### Sistema de Automação Bancária
+Automações para portais bancários com controle de execução, logs, banco de dados e exportação de resultados. Arquitetura modular pensada para manutenção e escalabilidade.
 
-Aplicativo desktop desenvolvido em Python para facilitar a consulta de ramais corporativos.
+`Python` `Playwright`
 
-### Funcionalidades
 
-- 🔎 Pesquisa por ramal, nome ou setor
-- 🖥️ Interface desktop
-- 📍 Salvamento da posição do painel
-- ➖ Recolher e expandir
-- 📄 Armazenamento dos dados em JSON
-- 📦 Geração de executável para Windows
 
-**Tecnologias:**
+---
+
+### LegendiAI
+Plataforma de geração automática de legendas com IA (Whisper), com processamento de áudio e vídeo e deploy no Hugging Face Spaces.
+
+`Python` `Whisper` `Streamlit/Gradio` `Hugging Face`
+
+[Demo no Hugging Face](https://huggingface.co/spaces/DiggoMarino/legendiAI)
+
+---
+
+### Painel de Ramais
+Aplicativo desktop para consulta de ramais por número, nome ou setor, com painel que recolhe/expande e lembra a posição na tela. Distribuído como executável para Windows.
 
 `Python` `CustomTkinter` `JSON` `PyInstaller`
 
-🔗 **[Repositório no GitHub](https://github.com/DiegoMarino11/Painel-de-Ramais/releases/tag/v1.0.0)**
+[Repositório]([LINK_DO_REPOSITORIO]) · [Download v1.0.0](https://github.com/DiegoMarino11/Painel-de-Ramais/releases/tag/v1.0.0)
 
 ---
 
-## 🤖 LegendiAI
+### Portal de TI Corporativo
+Base de conhecimento para usuários e equipe de TI, com documentação de infraestrutura, backups, Active Directory, procedimentos e políticas, padronizando processos internos.
 
-Projeto voltado à utilização de Inteligência Artificial para geração de legendas.
-
-O projeto explora integração entre desenvolvimento de software e recursos de IA para processamento de conteúdo.
-
-**Tecnologias:**
-
-`Python` `IA` `Hugging Face`
-
-🔗 **[Repositório no GitHub](https://huggingface.co/spaces/DiggoMarino/legendiAI)**
+`Google Workspace` `GitBook`
 
 ---
 
-## ⚙️ Projetos de Automação
+### Automações Corporativas
+Scripts para tarefas administrativas: manipulação de Excel/CSV, integração com APIs e geração automática de relatórios. Também scripts administrativos para Active Directory, Google Workspace e Windows Server.
 
-Desenvolvimento de automações para reduzir tarefas repetitivas e melhorar processos operacionais.
+`Python` `Playwright` `Selenium` `Pandas` `OpenPyXL`
 
-Entre os projetos desenvolvidos estão:
-
-- 🤖 Automação de processos web
-- 📁 Organização automática de arquivos
-- 📊 Processamento de relatórios
-- 📧 Automação envolvendo arquivos e e-mails
-- 🌐 Integração com sistemas web
-- 🏦 Automação de processos bancários
-- 📑 Manipulação e tratamento de dados
-
-**Tecnologias:**
-
-`Python` `Selenium` `Playwright` `Google Apps Script` `VBA`
+*Código privado (ambiente corporativo).*
 
 ---
 
-# 📚 Formação e Estudos
+## Formação e certificações
 
-### 🎓 Pós-graduação
+**Formação**
+- Pós-graduação em Engenharia de Software: PUC Minas (2023–2024)
+- Análise e Desenvolvimento de Sistemas: Universidade Veiga de Almeida (previsão 2028)
+- Tecnologia em Jogos Digitais: Estácio de Sá (2019–2021)
 
-**Engenharia de Software**
+**Cursos e certificações**
+- Infra e gestão: ITIL 4 Foundation, Active Directory (Certificados, FSMO e recursos avançados), Redes de Computadores, LGPD
+- Desenvolvimento e dados: Python e POO (Fundação Bradesco), JavaScript e Node.js (Alura), SQL e Power BI (Udemy)
+- Qualidade: Cypress e Plano de Testes/Gestão de Bugs (Alura)
 
-### 🎓 Graduação
-
-**Programação de Jogos Digitais**
-
-### 🎓 Graduação em andamento
-
-**Análise e Desenvolvimento de Sistemas**
-
-### 🛡️ Estudos complementares
-
-**Cybersecurity**
-
-Estudos voltados à segurança da informação, infraestrutura, redes e proteção de ambientes computacionais.
+**Idiomas:** inglês e espanhol (básico a intermediário), francês (básico)
 
 ---
 
-# 🎯 Atualmente estudando
+## Em evolução
 
-```text
-Python
-    ↓
-Automação
-    ↓
-Desenvolvimento de Software
-    ↓
-SQL e Dados
-    ↓
-Cybersecurity
-    ↓
-Arquitetura e Infraestrutura
+Infraestrutura como código, DevOps, SQL e dados, segurança da informação.
+
+---
+
+
+
