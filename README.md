@@ -120,6 +120,8 @@ O projeto explora integração entre desenvolvimento de software e recursos de I
 
 `Python` `IA` `Hugging Face`
 
+🔗 **[Repositório no GitHub](https://huggingface.co/spaces/DiggoMarino/legendiAI)**
+
 ---
 
 ## ⚙️ Projetos de Automação
