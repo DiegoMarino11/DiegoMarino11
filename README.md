@@ -108,6 +108,8 @@ Aplicativo desktop desenvolvido em Python para facilitar a consulta de ramais co
 
 `Python` `CustomTkinter` `JSON` `PyInstaller`
 
+🔗 **[Repositório no GitHub](https://github.com/DiegoMarino11/Painel-de-Ramais/releases/tag/v1.0.0)**
+
 ---
 
 ## 🤖 LegendiAI
