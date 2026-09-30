@@ -61,6 +61,36 @@ Atualmente direciono meus estudos e projetos para **desenvolvimento, automação
 
 # 🚀 Projetos em Destaque
 
+## 💰 Controle Financeiro
+
+Aplicação desktop desenvolvida em Python para controle de despesas pessoais.
+
+O sistema permite cadastrar, editar e excluir despesas, controlar gastos fixos, variáveis e parcelados, além de possibilitar a divisão de despesas entre várias pessoas.
+
+### Funcionalidades
+
+- 💰 Controle de despesas
+- 🔒 Despesas fixas
+- 🔄 Despesas variáveis
+- 📅 Despesas parceladas
+- ✅ Controle de parcelas pagas
+- 👥 Divisão de despesas
+- ✏️ Edição de despesas
+- 🗑️ Exclusão de despesas
+- 📊 Relatórios por categoria
+- 📊 Relatórios por tipo de despesa
+- 🌙 Tema escuro e claro
+- 💾 Salvamento local em JSON
+- 📦 Versão executável para Windows
+
+**Tecnologias:**
+
+`Python` `CustomTkinter` `JSON` `PyInstaller`
+
+🔗 **[Repositório no GitHub](https://github.com/DiegoMarino11/controle-financeiro-python)**
+
+---
+
 ## 📞 Painel de Ramais
 
 Aplicativo desktop desenvolvido em Python para facilitar a consulta de ramais corporativos.
@@ -77,27 +107,6 @@ Aplicativo desktop desenvolvido em Python para facilitar a consulta de ramais co
 **Tecnologias:**
 
 `Python` `CustomTkinter` `JSON` `PyInstaller`
-
----
-
-## 🛠️ IT Toolkit
-
-Ferramenta desktop desenvolvida para centralizar informações e recursos relacionados ao computador.
-
-O projeto utiliza Python para obter informações do sistema e apresentar dados de hardware e ambiente operacional através de uma interface gráfica.
-
-### Recursos
-
-- 💻 Informações do sistema
-- 🧠 Monitoramento de memória
-- ⚙️ Informações do processador
-- 💾 Informações de armazenamento
-- 🌐 Informações de rede
-- 📊 Dashboard de informações
-
-**Tecnologias:**
-
-`Python` `CustomTkinter` `psutil`
 
 ---
 
@@ -169,46 +178,3 @@ SQL e Dados
 Cybersecurity
     ↓
 Arquitetura e Infraestrutura
-```
-
-Buscando evoluir continuamente em **desenvolvimento de software, automação, dados e segurança da informação**.
-
----
-
-# 📊 GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiegoMarino11&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoMarino11&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-# 🌐 Contato
-
-### 💼 LinkedIn
-
-**Diego Mariño**
-
-`linkedin.com/in/diegomarino91`
-
-### 🐙 GitHub
-
-**DiegoMarino11**
-
----
-
-# 💡 Filosofia
-
-> Transformar problemas reais em soluções simples, automatizadas e eficientes.
-
----
-
-<div align="center">
-
-### 🚀 Sempre aprendendo. Sempre construindo.
-
-</div>
