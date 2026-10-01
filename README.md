@@ -4,7 +4,7 @@
 
 Infraestrutura · Suporte N1–N3 · Automação de processos · Python
 
-[LinkedIn](https://linkedin.com/in/diegomarino91) · [E-mail](mailto:diego.marinolvs@hotmail.com) · [Portfólio](https://bit.ly/44UW7nS) · Rio de Janeiro, RJ
+[LinkedIn](https://linkedin.com/in/diegomarino91) · [E-mail](mailto:diego.marinolvs@hotmail.com) · Rio de Janeiro, RJ
 
 ---
 
