@@ -10,7 +10,7 @@ Infraestrutura · Suporte N1–N3 · Automação de processos · Python
 
 ## Sobre mim
 
-Tenho mais de 8 anos de experiência em infraestrutura e suporte corporativo (N1 a N3). No dia a dia administro Windows Server, Active Directory (GPOs), File Server, Google Workspace, redes, backups e monitoramento com Zabbix.
+Tenho anos de experiência em infraestrutura e suporte corporativo (N1 a N3). No dia a dia administro Windows Server, Active Directory (GPOs), File Server, Google Workspace, redes, backups e monitoramento com Zabbix.
 
 Uso Python e scripts administrativos para eliminar tarefas manuais, integrar sistemas via APIs e gerar relatórios automáticos. Também documento ambientes e procedimentos, conduzo treinamentos e apoio projetos de TI.
 
